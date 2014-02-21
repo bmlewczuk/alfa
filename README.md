@@ -6,7 +6,7 @@ Zawsze mleczka
 Programy w C
 
 ```c
-int main {
+int main() {
   printf("smuuuuuutek/n");
   return 0;
 }
