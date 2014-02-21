@@ -23,5 +23,5 @@ zob. [Hello world program][1]
 W niedzielę:
 
 1. Porozmawiać o Github Desktop
-2. Powtórzyć notację Markdown
-3. Markdown online
+2. Powtórzyć notację Markdown 
+  * Markdown online
