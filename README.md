@@ -1,4 +1,6 @@
-    ##Programy w C
+![D. M. Ritcie](http://upload.wikimedia.org/wikipedia/commons/c/c6/Dennis_MacAlistair_Ritchie.jpg)
+
+#Programy w C
 
 Zwyczajowo zaczynamy od programu *hello world*
 
