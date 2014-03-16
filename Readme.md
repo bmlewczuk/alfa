@@ -1,0 +1,1 @@
+Plik (prawie) pusty
